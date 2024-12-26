@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ### Dataset
 
-The dataset is provided via a [Google Drive link]([https://drive.google.com/file/d/15B8SA1EXjFs_1uFZZJxpoqrmqHYF5b9J/view?usp=sharing](https://drive.google.com/drive/folders/1T14u26rcJc5xkir4LTO_auo7G9Zjke_K?usp=sharing)). 
+The dataset is provided via a [Google Drive link](https://drive.google.com/drive/folders/1T14u26rcJc5xkir4LTO_auo7G9Zjke_K?usp=sharing). 
 
 ### Implementations
 
