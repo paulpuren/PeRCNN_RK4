@@ -1,7 +1,5 @@
 # RK4_Pi_Block
-Learning Spatiotemporal Dynamics from Sparse Data via a High-order Physics-encoded Network
-
-The paper link is coming soon.
+Learning Spatiotemporal Dynamics from Sparse Data via a High-order Physics-encoded Network [[DOI](https://www.sciencedirect.com/science/article/abs/pii/S0010465525000852)]
 
 ---
 
@@ -13,7 +11,7 @@ We present a novel high-order physics-encoded learning framework for capturing t
 
 - This paper focuses on PDE inverse analysis in the context of coefficient identification and high-resolution dynamics reconstruction.
 
-- The known physical laws are encoded into the network using a -block, and a high-order time marching scheme is considered for modeling temporal evolution.
+- The known physical laws are encoded into the network using a Pi-block, and a high-order time marching scheme is considered for modeling temporal evolution.
 
 - Comprehensive experiments have been performed to validate the superiority, robustness, and stability of our approach against baseline models across various PDE systems. 
 
